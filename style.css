@@ -25,10 +25,11 @@ header {
 }
 
 body {
-    background-color: #3A3845;
-    color: #F7CCAC;
+    background-color: #46CDCF;
+    color: #9CFF2E;
     font-family: 'Open Sans', sans-serif;
     margin: 0;
+    background: #D0E4F5 url("https://steamuserimages-a.akamaihd.net/ugc/579013736182782613/D48291AA6FCE3EDA51BDA61917684D07640C2411/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true") repeat scroll 50% 100%;
 }
 
 cite {
@@ -56,7 +57,7 @@ p {
 
 .imageCard a {
     text-decoration: none;
-    color: #826F66;
+    color: #46CDCF;
 }
 
 .cardText {
